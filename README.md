@@ -7,7 +7,7 @@ User-Friendly Interface: Built with Streamlit for a seamless and intuitive exper
 **Prerequisites**
 Before you get started, make sure you have the following:
 Python 3.7 or higher installed on your system.
-Sign up in ElevenLabs
+Sign up in ElevenLabs.
 **Setup**
 Required Python packages installed (listed in requirements.txt)
 for interacting with ElevenLabs model, use it's actiation key.
